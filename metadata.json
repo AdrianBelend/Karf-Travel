@@ -1,0 +1,6 @@
+{
+  "name": "Karf Travels",
+  "description": "Sitio web oficial de Karf Travels para cotización de viajes y reserva de transporte (vehículo y chofer) para excursiones y eventos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
